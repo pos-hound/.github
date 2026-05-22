@@ -7,7 +7,7 @@ Welcome to PixelOS X Hound!
 
 ### Based on [Android Open Source Project](https://source.android.com) and [PixelOS](https://github.com/PixelOS-AOSP)
 
-PixelOS Fork is a pixel-based ROM with tweaked performance and a clean, minimal experience out of the box.
+PixelOS is a pixel-based ROM with tweaked performance and a clean, minimal experience out of the box.
 
 ### Getting Started
 
